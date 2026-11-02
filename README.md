@@ -21,8 +21,8 @@ Factories record every breakdown, but the data usually sits unused. Maintenance 
 
 ## Screenshots
 
-![Maintenance Log Analyzer Demo](assets/demo1.png)
-![Maintenance Log Analyzer Demo](assets/demo2.png)
+![Maintenance Log Analyzer Demo](asset/demo1.png)
+![Maintenance Log Analyzer Demo](asset/demo2.png)
 
 ## Run it locally
 
