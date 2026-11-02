@@ -1,5 +1,9 @@
 # 🔧 Maintenance Log Analyzer
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://maintenance-log-analyzer.streamlit.app/)
+
+> **Live Demo:** [maintenance-log-analyzer.streamlit.app](https://maintenance-log-analyzer.streamlit.app/)
+
 A small web app that turns a raw machine breakdown log into decisions: what fails most, which machines cost the most downtime, which failures keep repeating, and where to act first.
 
 Built for maintenance and reliability teams who keep their logs in Excel or CSV and have no time to dig through them by hand.
